@@ -18,4 +18,4 @@ This model can classify whether the lettuce have a disease, which can be classif
 4. Healthy
 
 The accuracy for plot is :
-![accuracy plot]('\accuracy_plot\Training 1000 Batches.png')
+![accuracy plot](accuracy_plot/Training%201000%20Batches.png)

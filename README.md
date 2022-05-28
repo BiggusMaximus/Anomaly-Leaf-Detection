@@ -8,18 +8,11 @@ We're planning to add more type of plant, right now the model that we have, can 
 
 This model can classify whether the lettuce have a disease, which can be classify into seven groups:
 
-### Bacterial
-
-### Fungal
-
-#### Downy Mildew
-
-#### Septoria blight
-
-#### Wilt and Leaf blight
-
-#### Powdery Mildew
-
-### Viral
-
-### Healthy
+1. Bacterial
+2. Fungal
+   - Downy Mildew
+   - Septoria blight
+   - Wilt and Leaf blight
+   - Powdery Mildew
+3. Viral
+4. Healthy

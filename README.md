@@ -17,5 +17,5 @@ This model can classify whether the lettuce have a disease, which can be classif
 3. Viral
 4. Healthy
 
-The accuracy for plot is :
-![accuracy plot](accuracy_plot/Training%201000%20Batches.png)
+The accuracy for plot is : </br>
+![accuracy plot](accuracy_plot/Training_1000_Batches.png)

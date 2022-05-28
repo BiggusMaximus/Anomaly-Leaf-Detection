@@ -16,3 +16,6 @@ This model can classify whether the lettuce have a disease, which can be classif
    - Powdery Mildew
 3. Viral
 4. Healthy
+
+The accuracy for plot is :
+![accuracy plot]('\accuracy_plot\Training 1000 Batches.png')
